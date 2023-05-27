@@ -1,0 +1,13 @@
+/Users/jeancarlhenryflorexil/Projects/Farming/Farming/bin/Debug/netcoreapp3.1/Farming.deps.json
+/Users/jeancarlhenryflorexil/Projects/Farming/Farming/bin/Debug/netcoreapp3.1/Farming.runtimeconfig.json
+/Users/jeancarlhenryflorexil/Projects/Farming/Farming/bin/Debug/netcoreapp3.1/Farming.runtimeconfig.dev.json
+/Users/jeancarlhenryflorexil/Projects/Farming/Farming/bin/Debug/netcoreapp3.1/Farming.dll
+/Users/jeancarlhenryflorexil/Projects/Farming/Farming/bin/Debug/netcoreapp3.1/Farming.pdb
+/Users/jeancarlhenryflorexil/Projects/Farming/Farming/obj/Debug/netcoreapp3.1/Farming.csproj.AssemblyReference.cache
+/Users/jeancarlhenryflorexil/Projects/Farming/Farming/obj/Debug/netcoreapp3.1/Farming.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeancarlhenryflorexil/Projects/Farming/Farming/obj/Debug/netcoreapp3.1/Farming.AssemblyInfoInputs.cache
+/Users/jeancarlhenryflorexil/Projects/Farming/Farming/obj/Debug/netcoreapp3.1/Farming.AssemblyInfo.cs
+/Users/jeancarlhenryflorexil/Projects/Farming/Farming/obj/Debug/netcoreapp3.1/Farming.csproj.CoreCompileInputs.cache
+/Users/jeancarlhenryflorexil/Projects/Farming/Farming/obj/Debug/netcoreapp3.1/Farming.dll
+/Users/jeancarlhenryflorexil/Projects/Farming/Farming/obj/Debug/netcoreapp3.1/Farming.pdb
+/Users/jeancarlhenryflorexil/Projects/Farming/Farming/obj/Debug/netcoreapp3.1/Farming.genruntimeconfig.cache
